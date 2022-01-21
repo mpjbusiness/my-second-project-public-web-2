@@ -1,4 +1,4 @@
-name: GitHub Artifacts - Release
+name: mpjbusiness - $my-second-project-public-web-2
 
 on:
   push:
